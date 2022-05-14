@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi instellen en gebruiken met enkel een Chromebook
+title: Raspberry Pi gebruiken vanaf een Chromebook
 ---
 
 Zelf gebruik ik privé een Chromebook en een iPad als mijn computer. Zakelijk heb ik een Windows laptop, maar die gebruik ik - zoals bedoeld - zakelijk. 

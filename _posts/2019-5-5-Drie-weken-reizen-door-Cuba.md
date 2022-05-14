@@ -1,5 +1,5 @@
 ---
-title: Cuba in drie weken
+title: Drie weken reizen door Cuba
 ---
 
 De vorige blogpost startte ik met: “Zonder al teveel op een reisblog te gaan lijken, wil ik toch graag mijn ervaringen van drie weken Bali delen.“ En hoe graag ik er ook voor wil waken om hier geen reisblog te creëren, wil ik toch graag mijn ervaringen van drie weken Cuba delen.

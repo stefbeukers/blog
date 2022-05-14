@@ -1,11 +1,11 @@
 <aside class="logo">
 
 	{% if page.url == '/index.html' or page.url == '/' %}
-		{% assign link = '/about' %}
-		{% assign prompt = 'About the Author' %}
+		{% assign link = '/over' %}
+		{% assign prompt = 'Over Stef' %}
 	{% else %}
 		{% assign link = '/' %}
-		{% assign prompt = 'Back to Index' %}
+		{% assign prompt = 'Terug' %}
 	{% endif %}
 
 	<a href="{{ link | prepend: site.baseurl | prepend: site.url }}">
